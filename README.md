@@ -5,6 +5,20 @@ Webservice CEP Brasileiro
 
 Esta API é pública e aberta, capaz de retornar a maioria dos CEPS brasileiros via requisições HTTP GET.
 
+Update
+==============
+100% dos CEP Brasileiros funcionando corretamente.
+Banco de dados de CEP com atualização de Jan/2014.
+
+
+Bugs:
+Caso você não encontre um CEP válido, abra um ISSUE e eu farei o possível para adiciona-lo ao repositório o mais rápido possível.
+
+Objetivo do projeto:
+Prover um local estável e de alta disponibilidade (Github) para servir os CEPS brasileiros, de forma 100% gratuita e aberta, livre de cadastros indesejáveis e sem restrição de acesso.
+
+A ser desenvolvido:
+* APIs com Orientação a Objetos nas linguagens JAVA, RUBY, PHP, .NET e Javascript (Node) com alerta de CEPS não encontrados.
 
 Como Usar
 ==============
