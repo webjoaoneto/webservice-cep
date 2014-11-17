@@ -38,3 +38,11 @@ Exemplos - CURL:
 Para o CEP 15014000
 
 ``file_get_contents('https://raw.githubusercontent.com/joao-gsneto/webservice-cep/master/public/ceps/15/014/000.json');``
+
+
+Propor atualização
+===================
+
+A melhor forma de propor um update nesse banco de dados é enviando-nos o banco de dados de CEP mais atual via sistema dos correios.
+O formato aceito pode ser tanto em MDB (Como no programa oficial) como em banco de dados MySQL.
+Dessa forma será mais simples a atualização automatica desse repositório, já com os scripts prontos.
