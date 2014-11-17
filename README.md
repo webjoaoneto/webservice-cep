@@ -46,3 +46,13 @@ Propor atualização
 A melhor forma de propor um update nesse banco de dados é enviando-nos o banco de dados de CEP mais atual via sistema dos correios.
 O formato aceito pode ser tanto em MDB (Como no programa oficial) como em banco de dados MySQL.
 Dessa forma será mais simples a atualização automatica desse repositório, já com os scripts prontos.
+
+
+Forks e Pull Requests 
+==================
+Forks e Pull request são bem vindos, como sempre.
+
+
+Mirrors
+=================
+Clonar esse repositório e criar um MIRROR hospedando os arquivos também é uma atitude muito bem vinda!
